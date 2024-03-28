@@ -32,7 +32,7 @@ The trained linear regression model achieved an R-squared score of approximately
    ```
 2. Clone the repository to your local machine: 
    ```
-   git clone https: //github.com/hassan3014/Car-Price-Prediction.git
+   //github.com/hassan3014/Car-Price-Prediction.git
    ```
 3. Run the Jupyter Notebook `car_price_prediction.ipynb` to train the model and analyze the results.
 
